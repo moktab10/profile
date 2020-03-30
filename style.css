@@ -25,13 +25,13 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #A23E48;
+  color: black;
   font-weight: bold;
 }
 
 a:hover {
-  color: blue;
-  opacity: 0.4;
+  color: #044389;
+  opacity: 1;
 }
 
 li {
@@ -86,15 +86,16 @@ li {
 }
 
 .btn-red {
-  background-color: #A23E48;
+  background-color: black;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
 .btn-red:hover {
-  background-color: blue;
-  color: white;
+  background-color: #06D6A0;
+  color: black;
+  opacity: 1;
 }
 
 .img-circle{
